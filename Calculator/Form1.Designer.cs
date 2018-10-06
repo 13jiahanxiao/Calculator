@@ -53,7 +53,7 @@
             // 
             this.textBox1.Location = new System.Drawing.Point(206, 62);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(339, 28);
+            this.textBox1.Size = new System.Drawing.Size(363, 28);
             this.textBox1.TabIndex = 0;
             // 
             // groupBox1
